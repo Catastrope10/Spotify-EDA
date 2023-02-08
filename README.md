@@ -1,9 +1,9 @@
 # Spotify-EDA
 An Exploratory Data Analysis of "Spotify" 
 
-l have examined and evaluated data about music and drawn precious perceptivity. Administered data cleaning and modeling to perform exploratory data analysis( EDA) and data visualization of the Spotify dataset using Python( Pandas, NumPy, Matplotlib, and Seaborn). 
+Here, The Spotify Dataset has been examined and evaluated about music and drawn precious perceptivity. Data cleaning and modeling has been Administered to perform exploratory data analysis( EDA) and data visualization of the Spotify dataset using Python( Pandas, NumPy, Matplotlib, and Seaborn). 
 
-Spotify Data Analysis makes use of subsidiary data from Spotify. Used data to identify patterns and connections between different characteristics. The exertion will support in developing the capability to review and interpret a dataset.
+Spotify Data Analysis makes use of subsidiary data from Spotify. Data has been applied to identify patterns and connections between different characteristics. The exertion will support in developing the capability to review and interpret a dataset.
 
 
 ![image](https://user-images.githubusercontent.com/68506906/217567666-d29c09b0-9e87-4104-ad64-a37e8fa2e9e6.png)
